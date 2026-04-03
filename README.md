@@ -5,7 +5,7 @@
 Bem-vindo ao repositório do projeto **Doutor Celular Informática**, uma Landing Page moderna, responsiva e focada em alta conversão para uma assistência técnica de dispositivos eletrônicos localizada em Maresias/SP. 
 
 Projeto desenvolvido para integrar meu portfólio como Desenvolvedor Frontend.
-## SITE: https://caiopolak.github.io/doutorcelularinformatica_site/
+## SITE: [https://caiopolak.github.io/doutorcelularinformatica_site/](https://caiopolak.github.io/doutorcelularinformatica/)
 
 ## 🚀 O Projeto
 
